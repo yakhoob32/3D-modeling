@@ -6,8 +6,8 @@ This repository showcases my 3D modeling projects and environment designs.
 You can view the final rendered images of my work below. These assets include architectural structures and interior props designed in **Blender**.
 
 ### Project Renders
-![Modern House](./path-to-image1.png)
-![Interior Assets](./path-to-image2.png)
+![Modern House](models)
+
 
 ---
 **Contact:** yakhoob32@gmail.com
