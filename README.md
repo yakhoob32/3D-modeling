@@ -1,5 +1,3 @@
-# 3D-modeling
-
 # 3D Design & Technical Portfolio
 
 This repository showcases my 3D modeling projects and environment designs.
